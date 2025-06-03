@@ -18,4 +18,5 @@ int main() {
 
     lampuRumah.setSaklarNo(0,"lampu teras rumah");
     lampuRumah.setSaklarNo(1, "lampu rumah tamu");
+    lampuRumah.setSaklarNo(2, "lampu kamar tidur");
 }
