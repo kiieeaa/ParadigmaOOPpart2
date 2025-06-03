@@ -12,3 +12,9 @@ class remoteLampu {
         return saklarNo [i];
     }
 };
+
+int main() {
+    remoteLampu lampuRumah;
+
+    lampuRumah.setSaklarNo(0,"lampu teras rumah");
+}
